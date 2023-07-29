@@ -77,4 +77,6 @@ body {
 
 footer {
     text-align: center;
+	color: var(--dark);
+	font-size: 17px;
 }
